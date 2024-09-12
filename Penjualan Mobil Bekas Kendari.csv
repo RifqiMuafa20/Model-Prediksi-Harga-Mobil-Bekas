@@ -1,0 +1,161 @@
+no;model;tahun; harga ;transmisi;jarak_tempuh;bahan_bakar; pajak ;mpg;ukuran_mesin; harga_awal ;selisih tahun
+1;Mitsubishi;1970;Rp290.000.000,00;Manual;27499;Petrol/Gasoline/Bensin;Rp1.800.000,00;28;1,8;Rp15.000.000,00;53
+2;Honda civic type R;2022;Rp400.000.000,00;Manual;20000;Diesel/Solar;Rp150.000,00;25;1,2;Rp1.170.000.000,00;1
+3;Toyota Innova V;2017;Rp370.000.000,00;Manual;5000000;Petrol/Gasoline/Bensin;Rp2.000.000,00;28;1,8;Rp245.000.000,00;6
+4;Toyota Agya;2020;Rp136.000.000,00;Manual;24089;Petrol/Gasoline/Bensin;Rp1.725.250,00;20;1;Rp120.000.000,00;3
+5;Toyota Agya;2017;Rp200.000.000,00;Manual;19400;Petrol/Gasoline/Bensin;Rp1.200.000,00;22;1,2;Rp120.000.000,00;6
+6;Toyota Rush;2022;Rp280.000.000,00;Manual;30063;Petrol/Gasoline/Bensin;Rp145.000,00;28;1,8;Rp170.000.000,00;1
+7;Daihatsu Ayla;2014;Rp117.000.000,00;Manual;68000;Petrol/Gasoline/Bensin;Rp1.000.000,00;22;1;Rp95.000.000,00;9
+8;Mitsubishi Mirage;2012;Rp173.000.000,00;Automatic;150000;Petrol/Gasoline/Bensin;Rp2.400.000,00;20;1,2;Rp160.000.000,00;11
+9;Toyota Avanza G;2010;Rp180.000.000,00;Manual;20810;Petrol/Gasoline/Bensin;Rp200.000,00;26;1,6;Rp99.500.000,00;13
+10;Toyota Inova;2012;Rp200.000.000,00;Manual;12000;Petrol/Gasoline/Bensin;Rp1.300.000,00;33;2,3;Rp250.000.000,00;11
+11;BMW 3X13;2023;Rp125.000.000,00;Semi-Auto;25000;Petrol/Gasoline/Bensin;Rp500.000,00;23;1,3;Rp1.300.000.000,00;0
+12;Toyota Supra mk4;2002;Rp2.147.483.647,00;Manual;1020;Petrol/Gasoline/Bensin;Rp8.000.000,00;40;3;Rp650.000.000,00;21
+13;Daihatsu Gran Max;2018;Rp200.000.000,00;Manual;149000;Petrol/Gasoline/Bensin;Rp3.000.000,00;22;1,5;Rp95.000.000,00;5
+14;Daihatsu Xenia ;2017;Rp130.000.000,00;Manual;227000;Petrol/Gasoline/Bensin;Rp1.500.000,00;25;1,3;Rp89.500.000,00;6
+15;Mitsubishi Colt T120 SS;2018;Rp109.000.000,00;Manual;280000;Petrol/Gasoline/Bensin;Rp1.563.000,00;22;1,5;Rp85.000.000,00;5
+16;Toyota Avanza ;2012;Rp105.000.000,00;Manual;28000;Petrol/Gasoline/Bensin;Rp3.500.000,00;25;1,5;Rp89.500.000,00;11
+17;Toyota Yaris S;2015;Rp147.000.000,00;Manual;110000;Petrol/Gasoline/Bensin;Rp1.209.500,00;25;1,5;Rp139.000.000,00;8
+18;Toyota Avanza;2012;Rp105.000.000,00;Manual;109000;Petrol/Gasoline/Bensin;Rp2.989.000,00;23;1,3;Rp99.500.000,00;11
+19;Toyota Avanza;2014;Rp157.000.000,00;Manual;120000;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp99.500.000,00;9
+20;Honda Brio;2018;Rp128.000.000,00;Manual;85700;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;5
+21;Honda Brio E;2016;Rp129.000.000,00;Semi-Auto;75438;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,3;Rp135.000.000,00;7
+22;Toyota Avanza;2012;Rp105.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp3.500.000,00;23;1,3;Rp116.500.000,00;11
+23;Suzuki Ertiga GL DOUBLE BLOWER;2013;Rp156.000.000,00;Manual;180000;Petrol/Gasoline/Bensin;Rp3.880.000,00;24;1,4;Rp155.000.000,00;10
+24;Daihatsu Ayla;2016;Rp87.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp110.000.000,00;7
+25;Suzuki Ertiga GL ;2012;Rp108.000.000,00;Manual;60000;Petrol/Gasoline/Bensin;Rp3.507.000,00;24;1,4;Rp145.000.000,00;11
+26;Toyota Kijang Innova;2015;Rp177.000.000,00;Manual;66781;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp235.000.000,00;8
+27;Suzuki Ertiga GL;2019;Rp164.000.000,00;Manual;50000;Petrol/Gasoline/Bensin;Rp3.507.000,00;24;1,4;Rp145.000.000,00;4
+28;Honda Jazz;2013;Rp125.000.000,00;Manual;120000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,5;Rp169.000.000,00;10
+29;Toyota Fortuner ;2018;Rp379.000.000,00;Automatic;45000;Diesel/Solar;Rp4.000.000,00;34;2,4;Rp295.000.000,00;5
+30;Nissan Grand Livina;2013;Rp287.000.000,00;Automatic;66000;Petrol/Gasoline/Bensin;Rp2.500.000,00;25;1,5;Rp165.000.000,00;10
+31;Daihatsu Ayla;2017;Rp134.000.000,00;Manual;58074;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp110.000.000,00;6
+32;Toyota Avanza;2021;Rp189.000.000,00;Manual;40000;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp116.500.000,00;2
+33;Daihatsu Ayla;2017;Rp134.000.000,00;Manual;21542;Petrol/Gasoline/Bensin;Rp1.371.000,00;25;1,2;Rp110.000.000,00;6
+34;Toyota Agya;2021;Rp170.390.000,00;Semi-Auto;47300;Petrol/Gasoline/Bensin;Rp1.500.000,00;22;1,2;Rp105.000.000,00;2
+35;Daihatsu Ayla;2019;Rp97.000.000,00;Manual;5000;Petrol/Gasoline/Bensin;Rp1.371.000,00;25;1,2;Rp110.000.000,00;4
+36;Daihatsu Xenia ;2017;Rp125.000.000,00;Manual;52580;Petrol/Gasoline/Bensin;Rp1.800.000,00;25;1,3;Rp126.000.000,00;6
+37;Toyota Calya ;2019;Rp136.000.000,00;Manual;45000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp132.000.000,00;4
+38;Toyota Yaris G;2014;Rp140.000.000,00;Manual;75000;Petrol/Gasoline/Bensin;Rp3.250.000,00;25;1,5;Rp169.000.000,00;9
+39;Honda Brio Satya E;2016;Rp110.000.000,00;Manual;87540;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;7
+40;Daihatsu Ayla;2019;Rp125.000.000,00;Automatic;45000;Petrol/Gasoline/Bensin;Rp1.371.000,00;25;1,2;Rp110.000.000,00;4
+41;Suzuki Ertiga DX;2012;Rp256.600.000,00;Semi-Auto;70000;Petrol/Gasoline/Bensin;Rp3.507.000,00;24;1,4;Rp135.000.000,00;11
+42;Daihatsu Xenia ;2015;Rp92.000.000,00;Manual;50000;Petrol/Gasoline/Bensin;Rp1.500.000,00;22;1;Rp126.000.000,00;8
+43;Toyota Kijang Innova;2008;Rp105.000.000,00;Manual;150000;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp255.000.000,00;15
+44;Honda Brio;2014;Rp95.000.000,00;Automatic;150000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;9
+45;Daihatsu Ayla;2016;Rp87.000.000,00;Manual;63000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp110.000.000,00;7
+46;Toyota Avanza;2020;Rp152.000.000,00;Manual;55949;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp116.500.000,00;3
+47;Toyota Avanza;2016;Rp214.000.000,00;Semi-Auto;299762;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp116.500.000,00;7
+48;Daihatsu Xenia DLX VTTi;2015;Rp109.000.000,00;Manual;98000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp146.000.000,00;8
+49;Toyota Fortuner VRZ TRD LUX AT;2016;Rp355.000.000,00;Manual;18000;Diesel/Solar;Rp4.890.000,00;34;2,4;Rp485.000.000,00;7
+50;Honda Jazz GE8;2013;Rp140.000.000,00;Automatic;125421;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,5;Rp215.000.000,00;10
+51;Toyota Fortuner ;2012;Rp220.000.000,00;Semi-Auto;98758;Petrol/Gasoline/Bensin;Rp4.000.000,00;35;2,5;Rp305.000.000,00;11
+52;Honda CRV i-VTEC ;2013;Rp199.000.000,00;Manual;90000;Petrol/Gasoline/Bensin;Rp3.200.000,00;30;2;Rp335.000.000,00;10
+53;Daihatsu Xenia VVTI;2017;Rp135.000.000,00;Manual;245454;Petrol/Gasoline/Bensin;Rp2.450.000,00;25;1,3;Rp126.000.000,00;6
+54;Toyota Calya G;2017;Rp128.000.000,00;Manual;94728;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp132.000.000,00;6
+55;Toyota Fortuner G;2011;Rp180.000.000,00;Automatic;192452;Diesel/Solar;Rp4.890.000,00;34;2,4;Rp295.000.000,00;12
+56;Toyota Yaris J;2012;Rp104.000.000,00;Manual;89560;Petrol/Gasoline/Bensin;Rp3.371.000,00;25;1,5;Rp139.000.000,00;11
+57;Toyota Innova G;2018;Rp249.000.000,00;Manual;48000;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp235.000.000,00;5
+58;Honda Brio Satya E;2018;Rp110.000.000,00;Manual;242252;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;5
+59;Daihatsu Terios TX ADVENTURE;2015;Rp135.000.000,00;Manual;120000;Petrol/Gasoline/Bensin;Rp2.320.000,00;22;1,5;Rp155.000.000,00;8
+60;Honda Brio E;2023;Rp108.600.000,00;Manual;110000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;0
+61;Honda Brio E;2018;Rp120.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;5
+62;Toyota Calya E;2016;Rp128.000.000,00;Manual;112412;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp132.000.000,00;7
+63;Honda Brio E;2014;Rp95.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;9
+64;Honda Brio Satya E;2018;Rp120.000.000,00;Automatic;28000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp135.000.000,00;5
+65;Toyota Kijang Innova;2007;Rp80.000.000,00;Manual;85000;Petrol/Gasoline/Bensin;Rp4.000.000,00;35;2,5;Rp295.000.000,00;16
+66;Honda CRV Turbo Prestige;2013;Rp230.000.000,00;Automatic;117000;Petrol/Gasoline/Bensin;Rp3.200.000,00;22;1,5;Rp740.000.000,00;10
+67;Toyota Avanza E;2014;Rp110.000.000,00;Manual;112000;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp116.500.000,00;9
+68;Toyota Agya G;2018;Rp120.000.000,00;Manual;55600;Petrol/Gasoline/Bensin;Rp1.725.250,00;22;1,2;Rp120.000.000,00;5
+69;Toyota Yaris E FL;2008;Rp73.000.000,00;Automatic;25000;Petrol/Gasoline/Bensin;Rp3.371.000,00;25;1,5;Rp250.000.000,00;15
+70;Toyota Avanza G;2021;Rp207.150.000,00;Manual;45730;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp150.000.000,00;2
+71;Daihatsu Ayla X;2018;Rp138.150.000,00;Manual;65000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp110.000.000,00;5
+72;Toyota Avanza G;2011;Rp101.500.000,00;Manual;184542;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp150.000.000,00;12
+73;Mitsubishi Pajero Sport GLX;2022;Rp522.100.000,00;Manual;354800;Diesel/Solar;Rp4.000.000,00;35;2,5;Rp450.000.000,00;1
+74;Daihatsu Xenia XI VVTI;2012;Rp85.000.000,00;Manual;150000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp140.000.000,00;11
+75;Daihatsu Ayla M;2015;Rp89.000.000,00;Manual;70000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp120.000.000,00;8
+76;Toyota Agya G;2016;Rp98.000.000,00;Automatic;70000;Petrol/Gasoline/Bensin;Rp1.371.000,00;20;1;Rp120.000.000,00;7
+77;Daihatsu Ayla R;2018;Rp115.000.000,00;Manual;70000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp125.000.000,00;5
+78;Toyota Yaris E  ;2013;Rp125.000.000,00;Manual;12000;Petrol/Gasoline/Bensin;Rp3.371.000,00;25;1,5;Rp230.500.000,00;10
+79;Honda Brio E;2018;Rp191.900.000,00;Manual;70580;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp140.000.000,00;5
+80;Toyota Calya E;2018;Rp164.700.000,00;Manual;12000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp136.000.000,00;5
+81;Toyota Fortuner G;2008;Rp185.000.000,00;Automatic;325421;Petrol/Gasoline/Bensin;Rp4.000.000,00;37;2,7;Rp479.500.000,00;15
+82;Toyota Kijang Innova V;2011;Rp173.000.000,00;Automatic;124560;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp369.000.000,00;12
+83;Honda Mobilio E;2015;Rp119.000.000,00;Automatic;94689;Petrol/Gasoline/Bensin;Rp2.867.000,00;22;1,2;Rp185.000.000,00;8
+84;Honda Jazz RS;2019;Rp300.000.000,00;Manual;6432;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,5;Rp270.000.000,00;4
+85;Daihatsu Terios TX ADVENTURE;2012;Rp155.000.000,00;Automatic;112456;Petrol/Gasoline/Bensin;Rp2.300.000,00;22;1,5;Rp198.000.000,00;11
+86;Mitsubishi Pajero Sport DAKAR HI POWER;2010;Rp285.000.000,00;Automatic;80000;Diesel/Solar;Rp9.431.000,00;35;2,5;Rp458.000.000,00;13
+87;Toyota Avanza G;2013;Rp108.000.000,00;Manual;321546;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp189.500.000,00;10
+88;Toyota Yaris G;2008;Rp70.000.000,00;Automatic;428000;Petrol/Gasoline/Bensin;Rp3.371.000,00;25;1,5;Rp265.000.000,00;15
+89;Toyota Calya E;2018;Rp167.600.000,00;Manual;85000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp136.000.000,00;5
+90;Suzuki Ertiga;2013;Rp114.999.000,00;Automatic;107000;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp220.000.000,00;10
+91;Toyota Fortuner VRZ TRD LUX ;2018;Rp440.000.000,00;Automatic;98754;Diesel/Solar;Rp4.000.000,00;34;2,4;Rp599.000.000,00;5
+92;Honda Brio S ;2018;Rp162.500.000,00;Manual;90000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp165.000.000,00;5
+93;Toyota Avanza E;2013;Rp112.000.000,00;Manual;70000;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp189.500.000,00;10
+94;Toyota Avanza E;2022;Rp242.800.000,00;Manual;57488;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp189.500.000,00;1
+95;Daihatsu Ayla R;2019;Rp151.850.000,00;Manual;40368;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp115.000.000,00;4
+96;Toyota Yaris S GR SPORT 7 AB;2015;Rp345.000.000,00;Manual;98525;Petrol/Gasoline/Bensin;Rp9.286.000,00;25;1,5;Rp315.000.000,00;8
+97;Daihatsu Xenia R;2019;Rp165.000.000,00;Manual;138023;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp194.000.000,00;4
+98;Honda Brio E;2015;Rp110.000.000,00;Manual;30491;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp140.000.000,00;8
+99;Daihatsu Ayla R;2019;Rp98.150.000,00;Manual;68000;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,2;Rp115.000.000,00;4
+100;Daihatsu Xenia DLX VTTi;2015;Rp109.000.000,00;Manual;75000;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp125.000.000,00;8
+101;Daihatsu Ayla M;2016;Rp125.000.000,00;Manual;79852;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp100.000.000,00;7
+102;Toyota Calya E;2012;Rp110.000.000,00;Manual;350000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp120.000.000,00;11
+103;Toyota Yaris J MC;2009;Rp90.000.000,00;Manual;152041;Petrol/Gasoline/Bensin;Rp3.371.000,00;25;1,5;Rp180.000.000,00;14
+104;Toyota Avanza G;2012;Rp100.000.000,00;Manual;98800;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp165.000.000,00;11
+105;Toyota Avanza Veloz;2014;Rp140.000.000,00;Manual;92458;Petrol/Gasoline/Bensin;Rp2.899.000,00;25;1,5;Rp185.000.000,00;9
+106;Toyota Kijang Innova V;2013;Rp429.120.000,00;Manual;87600;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp320.000.000,00;10
+107;Toyota Avanza Veloz;2016;Rp288.700.000,00;Manual;70000;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp268.500.000,00;7
+108;Toyota Calya E;2017;Rp105.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp164.700.000,00;6
+109;Toyota Calya E;2016;Rp128.000.000,00;Manual;62872;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp167.700.000,00;7
+110;Daihatsu Ayla M;2016;Rp119.000.000,00;Manual;84560;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp147.600.000,00;7
+111;Honda Brio IVTEC E;2017;Rp125.900.000,00;Manual;71000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp130.000.000,00;6
+112;Nissan Grand Livina SV;2010;Rp75.000.000,00;Manual;125481;Petrol/Gasoline/Bensin;Rp2.500.000,00;25;1,5;Rp190.000.000,00;13
+113;Daihatsi Ayla R;2018;Rp114.000.000,00;Manual;75285;Petrol/Gasoline/Bensin;Rp2.000.000,00;42;1,2;Rp155.800.000,00;5
+114;Honda HRV S;2016;Rp200.000.000,00;Manual;59625;Petrol/Gasoline/Bensin;Rp2.500.000,00;22;1,5;Rp285.000.000,00;7
+115;Toyota Avanza G;2004;Rp50.000.000,00;Manual;105000;Petrol/Gasoline/Bensin;Rp2.800.000,00;23;1,3;Rp228.500.000,00;19
+116;Daihatsu Ayla X;2013;Rp60.000.000,00;Automatic;120500;Petrol/Gasoline/Bensin;Rp1.371.000,00;22;1;Rp155.800.000,00;10
+117;Toyota Agya G;2015;Rp75.000.000,00;Manual;112000;Petrol/Gasoline/Bensin;Rp1.371.000,00;20;1;Rp149.200.000,00;8
+118;Daihatsu Sigra R;2018;Rp135.650.000,00;Manual;75000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp100.000.000,00;5
+119;Daihatsu Sigra R;2018;Rp135.650.000,00;Manual;75000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp136.000.000,00;5
+120;Datsun GO + PANCA A;2016;Rp68.000.000,00;Manual;158000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp119.900.000,00;7
+121;Daihatsu Sigra M;2018;Rp118.800.000,00;Manual;50000;Petrol/Gasoline/Bensin;Rp1.371.000,00;28;1;Rp119.700.000,00;5
+122;Suzuki Carry STANDAR PU;2012;Rp57.000.000,00;Manual;35000;Petrol/Gasoline/Bensin;Rp2.500.000,00;25;1,5;Rp140.000.000,00;11
+123;Nissan X Trail ;2011;Rp139.000.000,00;Automatic;125000;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp359.900.000,00;12
+124;Toyota Sienta V;2017;Rp170.000.000,00;Manual;108000;Petrol/Gasoline/Bensin;Rp3.080.000,00;25;1,5;Rp278.500.000,00;6
+125;Daihatsu Sigra;2018;Rp109.900.000,00;Automatic;54960;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp119.500.000,00;5
+126;Suzuki Carry Futura FD;2013;Rp37.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp175.000.000,00;10
+127;Honda Accord VTi;2007;Rp128.000.000,00;Manual;114252;Petrol/Gasoline/Bensin;Rp4.000.000,00;38;2,4;Rp529.000.000,00;16
+128;Suzuki Carry Futura ST 150;2014;Rp32.000.000,00;Manual;102580;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp175.000.000,00;9
+129;Daihatsu Sigra R DLX ;2023;Rp165.800.000,00;Manual;105200;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp142.700.000,00;0
+130;Daihatsu Sigra ;2018;Rp165.800.000,00;Manual;5000;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,2;Rp119.500.000,00;5
+131;Honda BRV E CVT CKD;2017;Rp165.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp2.800.000,00;22;1,5;Rp226.600.000,00;6
+132;Suzuki Carry Mega ;2013;Rp40.000.000,00;Manual;65000;Diesel/Solar;Rp2.800.000,00;25;1,5;Rp175.000.000,00;10
+133;Honda Freed G83 ;2013;Rp135.000.000,00;Automatic;258000;Petrol/Gasoline/Bensin;Rp2.800.000,00;22;1,5;Rp258.000.000,00;10
+134;Suzuki Carry Futura;2011;Rp40.000.000,00;Manual;150000;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp175.000.000,00;12
+135;Suzuki Mega Carry PU AC PS;2019;Rp83.500.000,00;Manual;96000;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp225.000.000,00;4
+136;Daiatsu Sigra ;2017;Rp103.000.000,00;Manual;65000;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp119.500.000,00;6
+137;Nissan Serena Comfort Touring;2006;Rp67.500.000,00;Automatic;345121;Petrol/Gasoline/Bensin;Rp4.000.000,00;30;2;Rp459.000.000,00;17
+138;Toyota Vios ;2007;Rp80.000.000,00;Manual;350000;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp238.000.000,00;16
+139;Daihatsu Grand Max PS AC PU;2019;Rp121.000.000,00;Manual;10000;Petrol/Gasoline/Bensin;Rp2.800.000,00;22;1,5;Rp189.500.000,00;4
+140;Mitsubishi Strada TRITON DOUBLE CABIN EXCEED;2019;Rp469.950.000,00;Semi-Auto;98741;Diesel/Solar;Rp4.780.000,00;35;2,5;Rp295.000.000,00;4
+141;Mitsubishi Colt L 300 ;2019;Rp188.000.000,00;Manual;75000;Diesel/Solar;Rp3.899.000,00;35;2,5;Rp120.000.000,00;4
+142;Mitsubishi T120SS 3-WAY WIDE DECK;2019;Rp109.000.000,00;Manual;75421;Petrol/Gasoline/Bensin;Rp2.800.000,00;25;1,5;Rp100.000.000,00;4
+143;Mitsubishi T120SS T ;2013;Rp109.000.000,00;Manual;150000;Diesel/Solar;Rp2.800.000,00;25;1,5;Rp80.000.000,00;10
+144;Honda CR-V;2012;Rp530.000.000,00;Manual;24089;Petrol/Gasoline/Bensin;Rp3.200.000,00;30;2;Rp350.000.000,00;11
+145;Nissan March;2017;Rp185.800.000,00;Manual;27469;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,2;Rp125.000.000,00;6
+146;Toyota Etios Valco;2014;Rp150.000.000,00;Manual;36248;Petrol/Gasoline/Bensin;Rp2.000.000,00;23;1,3;Rp135.000.000,00;9
+147;Honda Brio;2020;Rp165.900.000,00;Manual;12340;Petrol/Gasoline/Bensin;Rp2.000.000,00;28;1,4;Rp120.000.000,00;3
+148;Honda Jazz;2017;Rp255.000.000,00;Automatic;37999;Petrol/Gasoline/Bensin;Rp2.000.000,00;22;1,5;Rp180.000.000,00;6
+149;Toyota Fortuner;2011;Rp556.000.000,00;Manual;36100;Diesel/Solar;Rp4.000.000,00;30;2;Rp395.000.000,00;12
+150;Toyota Kijang Invova;2018;Rp371.000.000,00;Manual;16444;Diesel/Solar;Rp4.000.000,00;30;2;Rp250.000.000,00;5
+151;Daihatsu Xenia;2015;Rp218.500.000,00;Manual;25499;Petrol/Gasoline/Bensin;Rp1.500.000,00;22;1;Rp125.000.000,00;8
+152;Daihatsu Gran Max;2022;Rp169.000.000,00;Manual;50584;Petrol/Gasoline/Bensin;Rp3.200.000,00;22;1,5;Rp100.000.000,00;1
+153;Suzuki Carry Futura;2016;Rp150.000.000,00;Manual;18389;Petrol/Gasoline/Bensin;Rp2.000.000,00;23;1,3;Rp100.000.000,00;7
+154;Daihatsu Gran Max;2018;Rp225.000.000,00;Manual;28321;Petrol/Gasoline/Bensin;Rp3.200.000,00;22;1,5;Rp120.000.000,00;5
+155;Toyota Avanza;2018;Rp235.000.000,00;Automatic;14000;Petrol/Gasoline/Bensin;Rp3.200.000,00;23;1,3;Rp100.000.000,00;5
+156;Mitsubishi L300;2022;Rp224.000.000,00;Manual;21000;Diesel/Solar;Rp3.200.000,00;22;1,5;Rp120.000.000,00;1
+157;Daihatsu Grand Max Delvan;2018;Rp148.000.000,00;Manual;20219;Petrol/Gasoline/Bensin;Rp2.000.000,00;25;1,3;Rp150.000.000,00;5
+158;Isuzu Kijang Phanter;2016;Rp287.000.000,00;Manual;8912;Diesel/Solar;Rp3.200.000,00;30;2;Rp250.000.000,00;7
+159;Toyota Avanza;2011;Rp295.000.000,00;Automatic;28335;Petrol/Gasoline/Bensin;Rp2.000.000,00;23;1,3;Rp125.000.000,00;12
+160;Toyota Hilux Single Cap;2017;Rp208.800.000,00;Manual;10089;Petrol/Gasoline/Bensin;Rp3.800.000,00;30;2;Rp250.000.000,00;6
